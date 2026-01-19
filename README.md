@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**SKarboy410/SKarboy410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hello Fellas! I am Sai Karthik or SKarboy_4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello Fellas, I am Sai Karthik, also known as SKarboy_4. I am an electronics major and my field of interest is embedded systems.
+
+---
+### Skills
+
+
+Languages: C, Python, Java, Shell Scripting
+
+Microcontrollers: AVR, ESP32, Intel 8051
+
+Tools: CMake
+
+Will add more, I am just a newbie now :)
+
+---
+### Projects:
+
+- Currently trying to implement the fancy functions that the provides to you in baremetal C.
+
+
+---
+### Contacts:
+
+Linkedin - https://www.linkedin.com/in/saikarthikk/
+
+Discord: SKarboy_4 
+
+Mail: saikarthik42006@gmail.com 
