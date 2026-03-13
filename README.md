@@ -17,7 +17,7 @@ Will add more, I am just a newbie now :)
 ---
 ### Projects:
 
-- Currently trying to implement the fancy functions that the arduino provides to you in baremetal C.
+- Currently making a SumoBot using an Arduino Uno and baremetal C
 
 
 ---
