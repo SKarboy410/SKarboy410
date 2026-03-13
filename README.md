@@ -10,7 +10,7 @@ Hello Fellas, I am Sai Karthik, also known as SKarboy_4. I am an electronics maj
 
 - Languages: C, Python, Java, Shell Scripting
 - Microcontrollers: AVR, ESP32, Intel 8051
-- Tools: CMake
+- Tools: CMake, Git, GitHub
 
 Will add more, I am just a newbie now :)
 
