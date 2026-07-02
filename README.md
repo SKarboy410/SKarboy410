@@ -8,16 +8,17 @@ Hello Fellas, I am Sai Karthik, also known as SKarboy_4. I am an electronics maj
 ### Skills
 
 
-- Languages: C, Python, Java, Shell Scripting
+- Languages: C, Python, Java, Verilog
 - Microcontrollers: AVR
-- Tools: CMake, Git, GitHub
+- Tools: CMake, Git, GitHub, Vivado, Vitis
 
-Will add more, I am just a newbie now :)
 
 ---
 ### Projects:
 
 - SumoBot using an ATmega328p(Arduino Uno) and baremetal C
+- FPGA SoC with AXI Frame Buffer-Based VGA System
+
 
 
 ---
