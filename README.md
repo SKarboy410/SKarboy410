@@ -8,9 +8,9 @@ Hello Fellas, I am Sai Karthik, also known as SKarboy_4. I am an electronics maj
 ### Skills
 
 
-- Languages: C, Python, Java, Verilog
+- Languages: C/C++, Python, Java, Verilog
 - Microcontrollers: AVR
-- Tools: CMake, Git, GitHub, Vivado, Vitis
+- Tools: CMake, Git, GitHub, Vivado, Vitis, JUCE
 
 
 ---
