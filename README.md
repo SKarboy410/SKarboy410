@@ -18,6 +18,7 @@ Hello Fellas, I am Sai Karthik, also known as SKarboy_4. I am an electronics maj
 
 - SumoBot using an ATmega328p(Arduino Uno) and baremetal C
 - FPGA SoC with AXI Frame Buffer-Based VGA System
+- Multi-Effect DSP Audio Processor for Music using C++ and JUCE
 
 
 
